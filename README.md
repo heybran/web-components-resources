@@ -61,3 +61,7 @@
 ## Frameworkless Movement
 
 - https://github.com/frameworkless-movement/awesome-frameworkless#javascript
+
+## New Things
+
+- CSS Module Scripts (https://web.dev/css-module-scripts/)

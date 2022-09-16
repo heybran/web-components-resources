@@ -27,6 +27,7 @@
 **4) Chris Haynes**
 
 - https://lamplightdev.com/blog/tag/web%20components/
+- https://waferlib.netlify.app/
 
 **5) Francesco Strazzullo**
 

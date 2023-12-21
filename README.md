@@ -1,45 +1,68 @@
 # Vanilla Web Components Resources
 
-## Docs
-
+## For New Comers
 - MDN: https://developer.mozilla.org/en-US/docs/Web/Web_Components
 - JAVASCRIPT.INFO: https://javascript.info/web-components
 - web.dev: https://web.dev/web-components/
+- https://github.com/knowler/custom-element-lifecycle-element
 
+## Standalone Web Components
+
+### David Darnes
+- https://darn.es/is-playing-web-component/
+
+### Zach Leatherman
+- https://www.zachleat.com/web/snow-fall/
+- https://github.com/zachleat/browser-window
+
+## Web Components Projects
+
+- https://webcomponent.io/
+
+## Testing Web Components
+
+- https://lea.codes/posts/2023-12-18-testing-web-components/
 
 ## Articles
 
-**1) Smashing Magazine**
+### Smashing Magazine
 
 - https://www.smashingmagazine.com/2014/03/introduction-to-custom-elements/
 - https://www.smashingmagazine.com/2016/12/styling-web-components-using-a-shared-style-sheet/
 - https://www.smashingmagazine.com/2022/04/cta-modal-build-web-component/
 
-**2) Lea Verou**
+### Lea Verou
 
 - https://projects.verou.me/nudeforms/button-group/
 
-**3) Camilo Reyes**
+### Camilo Reyes
 
 - https://www.sitepoint.com/frameworkless-web-components-introduction/
 - https://www.sitepoint.com/build-frameworkless-web-app-modern-javascript-web-components/
 
-**4) Chris Haynes**
+### Chris Haynes
 
 - https://lamplightdev.com/blog/tag/web%20components/
 - https://waferlib.netlify.app/
 
-**5) Francesco Strazzullo**
+### Francesco Strazzullo
 
 - https://github.com/francesco-strazzullo/frameworkless-front-end-development
 
-**6) Ayush Gupta**
+### Ayush Gupta
 
 - Part 1: https://ayushgp.xyz/html-web-components-using-vanilla-js/
 - Part 2: https://ayushgp.xyz/html-web-components-using-vanilla-js-part-2/
 - Part 3: https://ayushgp.xyz/html-web-components-using-vanilla-js-part-3/
 
-**7) Others**
+### From Mastodon
+
+- [Introduction to Vanilla Web Components](https://tomascornelles.com/en/blog/2023/introduction-to-vanilla-web-components/)
+- https://www.leereamsnyder.com/web-component-and-somehow-also-js-101
+- [HTML web components](https://adactio.com/journal/20618)
+- [Improving a web component, one step at a time](https://blog.ltgt.net/web-component-step-by-step-improvement/)
+
+### Others
 
 - https://krasimirtsonev.com/blog/article/A-modern-JavaScript-router-in-100-lines-history-api-pushState-hash-url
 - https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/

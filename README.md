@@ -1,4 +1,4 @@
-# Vanilla Web Components Resources
+# Web Components Resources
 
 ## For New Comers
 - MDN: https://developer.mozilla.org/en-US/docs/Web/Web_Components
@@ -89,3 +89,12 @@
 ## New Things
 
 - CSS Module Scripts (https://web.dev/css-module-scripts/)
+
+## Web Components Library
+
+- Shoelace: https://github.com/shoelace-style/shoelace
+- Spectrum Web Components: https://github.com/adobe/spectrum-web-components
+- Nord Web Components: https://nordhealth.design/web-components/
+- Lion: https://lion-web.netlify.app/components/
+- UI5 Web Components: https://github.com/SAP/ui5-webcomponents
+- Vaadin Web Components: https://github.com/vaadin/web-components
